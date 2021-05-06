@@ -1,2 +1,2 @@
 # Crypto Fraud
-### Quick supervized learning project on fraudulent Ethereum transactions
+### Supervized learning project on fraudulent Ethereum transactions
